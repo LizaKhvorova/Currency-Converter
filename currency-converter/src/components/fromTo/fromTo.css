@@ -1,0 +1,8 @@
+.fromTo {
+  display: flex;
+  flex-direction: column;
+}
+
+.inputCur {
+  margin-top: 20px;
+}
