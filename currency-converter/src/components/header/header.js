@@ -1,5 +1,5 @@
 import React from 'react';
-import "./header.css";
+import "./style.css";
 import icon from "./arrow-icon.svg";
 
 export function Header({cur1, cur2}) {
