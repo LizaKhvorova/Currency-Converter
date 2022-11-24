@@ -78,7 +78,7 @@ function App() {
   return (
     <>
       <Header cur1={cur1} cur2={cur2}/>
-      <div className='main'>
+      <div className='main-select-input'>
         <div className='select-input'>
           <Select 
             onChangeCur={handleChangeCur1}
@@ -107,8 +107,7 @@ function App() {
             onClearCount={handleClear2}
           />
         </div>
-      </div>
-      
+      </div>  
     </>
   );
 }

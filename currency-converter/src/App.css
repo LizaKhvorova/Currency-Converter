@@ -1,11 +1,11 @@
-.main {
+.main-select-input {
   display: flex;
-  flex-direction: row;
+  justify-content: space-evenly;
 }
+
 .select-input {
   display: flex;
   flex-direction: column;
-  justify-content: space-between;
-  width: 300px;
-  margin: 10px;
+  width: 400px;
+  margin: 30px;
 }
