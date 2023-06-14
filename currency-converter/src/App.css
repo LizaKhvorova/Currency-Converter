@@ -1,6 +1,11 @@
-.from-to {
+.main-select-input {
   display: flex;
-  flex-direction: row;
   justify-content: space-evenly;
-  margin: 10px;
+}
+
+.select-input {
+  display: flex;
+  flex-direction: column;
+  width: 400px;
+  margin: 30px;
 }
